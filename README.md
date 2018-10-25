@@ -1,0 +1,2 @@
+# EFM32TG11_SPI
+EFM32TG11 ARM Cortex M0+ Silicon Labs Test SPI
